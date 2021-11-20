@@ -30,7 +30,7 @@ services:
       MYSQL_ROOT_PASSWORD: 88888888
     volumes: 
       - ./data:/var/lib/mysql
-      - ./reg_dump.sql/:docker-entrypoint-initdb.d/reg_dump.sql
+      - /home/khlebnikovvi/reg_dump.sql
 
   phpmyadmin: 
     image: "phpmyadmin:latest"
