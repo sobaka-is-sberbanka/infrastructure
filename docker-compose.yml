@@ -30,7 +30,7 @@ services:
       MYSQL_ROOT_PASSWORD: 88888888
     volumes: 
       - ./data:/var/lib/mysql
-      - /home/khlebnikovvi/reg_dump.sql
+      - /home/khlebnikovvi/infrastructure/reg_dump.sql
 
   phpmyadmin: 
     image: "phpmyadmin:latest"
