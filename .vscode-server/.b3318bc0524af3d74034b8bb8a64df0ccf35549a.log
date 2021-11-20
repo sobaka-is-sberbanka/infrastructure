@@ -1,0 +1,15 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 40869
+
+[04:48:22] Extension host agent started.
+[04:48:22] [127.0.0.1][9995f1b7][ExtensionHostConnection] New connection established.
+[04:48:22] [127.0.0.1][9995f1b7][ExtensionHostConnection] <1472> Launched Extension Host Process.
+[04:48:22] [127.0.0.1][866eb949][ManagementConnection] New connection established.
